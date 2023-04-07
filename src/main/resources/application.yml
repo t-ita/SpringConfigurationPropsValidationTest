@@ -1,0 +1,4 @@
+my:
+  props:
+    string-value: ${STR_PROPS:HOGE}
+    int-value: ${INT_PROPS:-1}
